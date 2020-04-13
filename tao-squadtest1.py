@@ -4,7 +4,7 @@ import asyncio
 import discord
 import discord.ext.commands
 
-token = 'Njk4ODM4ODA1MDEyMTUyMzk0.XpO6mg.iWFycfAWkKSp_XWYC-5V9aQrQUg'
+token = 'unknown'
 channel_id: int = 698051705715163196
 
 bot = discord.ext.commands.Bot(command_prefix="1/")
